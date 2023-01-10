@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This capstone will be a medical app that focuses on the medical provider's side of things. This app strives to simplify the doctor's workload as they work their patients. This app will allow providers to easily enter and edit patient information and pull relevant drug information needed for any treatment plans. 
 ### Features
-Include Features here
+Features will include:
+1. Doctor Log in - the medical professionals will be able to create a profile and log into their account.
+2. Access Records - the medical provider will be able to access their patient's profiles/records
+3. Create and Update Records - the medical provider will be able to create new patient records
+4. Appointment Requests - the patients will have the ability to send appointment requests to their doctor. The doctor will be able to accept or reject them.
+5. Billing Information - in the patient record, the medical provider will be able to note the billing needs for the visit
 ### Technologies
-Include Technologies here
+This project will be utilizing Java, Spring Boot, PostGreSQL, and Thymeleaf templates.
 ### What I'll Have to Learn
-Include what you will need to learn here
+In this project, I will need to learn PostGreSQL. Additionally, it will be an exciting challenge to create the feature for the doctor logins and ensure that feature is secure. This project will also practice using information from a public API for the drug information. Lastly, I will need to learn more about how to use a calendar-like feature in an application for the appointment requests feature. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GqhUbVdb/liftoff-2023
