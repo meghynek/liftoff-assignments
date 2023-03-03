@@ -16,7 +16,7 @@ Features will include:
 4. Appointment Requests - the patients will have the ability to send appointment requests to their doctor. The doctor will be able to accept or reject them.
 5. Billing Information - in the patient record, the medical provider will be able to note the billing needs for the visit
 ### Technologies
-This project will be utilizing Java, Spring Boot, PostGreSQL, and Thymeleaf templates.
+This project will be utilizing Java, Spring Boot, PostGreSQL, and Bootstrap.
 ### What I'll Have to Learn
 In this project, I will need to learn PostGreSQL. Additionally, it will be an exciting challenge to create the feature for the doctor logins and ensure that feature is secure. This project will also practice using information from a public API for the drug information. Lastly, I will need to learn more about how to use a calendar-like feature in an application for the appointment requests feature. 
 ### Project Tracker
